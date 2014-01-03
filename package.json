@@ -1,0 +1,27 @@
+{
+  "name": "gulp-textfile",
+  "version": "0.0.0",
+  "description": "Scaffold simple textfiles.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/distilledhype/gulp-textfile.git"
+  },
+  "keywords": [
+    "gulpplugin",
+    "textfiles",
+    "scaffolding"
+  ],
+  "author": "Kahlil Lechelt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/distilledhype/gulp-textfile/issues"
+  },
+  "homepage": "https://github.com/distilledhype/gulp-textfile",
+  "devDependencies": {
+    "gulp": "~3.2.2"
+  }
+}
