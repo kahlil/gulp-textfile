@@ -2,4 +2,4 @@
 
 _WIP_
 
-Scaffold simple textfiles on the command line.
+Scaffold simple text files on the command line.
