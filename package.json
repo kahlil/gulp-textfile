@@ -22,11 +22,11 @@
   },
   "homepage": "https://github.com/distilledhype/gulp-textfile",
   "devDependencies": {
-    "gulp": "~3.2.2",
-    "mocha": "~1.16.2"
+    "gulp": "~3.9.1",
+    "mocha": "~3.4.2"
   },
   "dependencies": {
     "argv": "0.0.2",
-    "lodash.template": "~2.4.1"
+    "lodash.template": "~4.4.0"
   }
 }
